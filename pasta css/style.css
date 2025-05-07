@@ -31,7 +31,7 @@ header{
 
 main{
     display: flex;
-    flex-direction: colunm;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     border: 2px solid var(--text-color);
