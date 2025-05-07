@@ -42,7 +42,7 @@ footer{
     bottom: 0;
     height: 20px;
     border-top: 2px solid var(--text-color);
-    position:absolute
+    position:absolute;
     display: flex;
     justify-content: center;
 align-items: center;
