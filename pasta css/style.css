@@ -46,7 +46,7 @@ form{
 }
 input{
     width: 100%;
-    margin-bottom: 1,8rem;
+    margin-bottom: 1,0rem !important;
     position: relative;
 }
 footer{
