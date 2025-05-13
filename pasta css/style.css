@@ -56,10 +56,12 @@ input{
     position: relative;
 }
 
-input[type="submit"],input[type="reset"]
-footer
-{
+input[type="submit"], input[type="reset"]{
     
+}
+footer
+
+
     bottom: 0;
     height: 20px;
     border-top: 2px solid var(--text-color);
