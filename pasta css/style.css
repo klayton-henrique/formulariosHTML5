@@ -55,6 +55,8 @@ input{
     width: 100%;
     position: relative;
 }
+
+input[type="submit"],input[type="reset"]
 footer{
     bottom: 0;
     height: 20px;
